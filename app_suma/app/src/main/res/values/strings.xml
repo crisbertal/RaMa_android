@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">app_suma</string>
+    <string name="primer_sumando">Primer numero</string>
+    <string name="segundo_sumando">Segundo numero</string>
+    <string name="resultado">Resultado</string>
+    <string name="texto_boton_sumar">Sumar</string>
+    <string name="texto_boton_salir">Salir</string>
+    <string name="hint_primer_sumando">Inserte el primer numero</string>
+    <string name="hint_segundo_sumando">Inserte el segundo numero</string>
 </resources>
